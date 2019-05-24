@@ -1,0 +1,16 @@
+wage,id,age,firstName,lastName
+1800,101,23,Belen,Loli
+1900,102,25,Alistar,Hecarim
+2000,103,33,Ashe,Illaoi
+2100,104,35,Dr. Mundo,Ivern
+2200,105,33,Elise,Jhin
+2300,106,35,Braum,Karma
+2400,107,35,Brand,Kayle
+2500,108,43,Graves,Maokai
+2600,109,45,Jax,Nidalee
+2700,110,43,Jinx,Quinn
+2800,111,45,Rammus,Shen
+2900,112,53,Riven,Skarner
+3000,113,55,Poppy,Sona
+3100,114,63,Sion,Taliyah
+3200,115,65,Sivir,Talon

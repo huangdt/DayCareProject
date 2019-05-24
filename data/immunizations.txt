@@ -1,0 +1,7 @@
+immunizationName,duration
+Measles,6
+HepatitisB,12
+MMR,lifetime
+Varicella,6
+Typhoid,12
+Meningitis,lifetime
